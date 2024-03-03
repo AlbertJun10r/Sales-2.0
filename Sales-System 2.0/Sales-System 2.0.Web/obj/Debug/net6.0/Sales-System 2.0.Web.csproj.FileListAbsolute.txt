@@ -1,0 +1,30 @@
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.Web\bin\Debug\net6.0\appsettings.json
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.Web\bin\Debug\net6.0\Sales-System 2.0.Web.staticwebassets.runtime.json
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.Web\bin\Debug\net6.0\Sales-System 2.0.Web.exe
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.Web\bin\Debug\net6.0\Sales-System 2.0.Web.deps.json
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.Web\bin\Debug\net6.0\Sales-System 2.0.Web.runtimeconfig.json
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.Web\bin\Debug\net6.0\Sales-System 2.0.Web.dll
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.Web\bin\Debug\net6.0\Sales-System 2.0.Web.pdb
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.Web\obj\Debug\net6.0\Sales-System 2.0.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.Web\obj\Debug\net6.0\Sales-System 2.0.Web.AssemblyInfoInputs.cache
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.Web\obj\Debug\net6.0\Sales-System 2.0.Web.AssemblyInfo.cs
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.Web\obj\Debug\net6.0\Sales-System 2.0.Web.csproj.CoreCompileInputs.cache
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.Web\obj\Debug\net6.0\Sales-System 2.0.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.Web\obj\Debug\net6.0\Sales-System 2.0.Web.RazorAssemblyInfo.cache
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.Web\obj\Debug\net6.0\Sales-System 2.0.Web.RazorAssemblyInfo.cs
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.Web\obj\Debug\net6.0\staticwebassets\msbuild.Sales-System 2.0.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Sales-System 2.0.Web.props
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Sales-System 2.0.Web.props
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Sales-System 2.0.Web.props
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.Web\obj\Debug\net6.0\scopedcss\bundle\Sales-System 2.0.Web.styles.css
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.Web\obj\Debug\net6.0\scopedcss\projectbundle\Sales-System 2.0.Web.bundle.scp.css
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.Web\obj\Debug\net6.0\Sales-System 2.0.Web.dll
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.Web\obj\Debug\net6.0\refint\Sales-System 2.0.Web.dll
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.Web\obj\Debug\net6.0\Sales-System 2.0.Web.pdb
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.Web\obj\Debug\net6.0\Sales-System 2.0.Web.genruntimeconfig.cache
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.Web\obj\Debug\net6.0\ref\Sales-System 2.0.Web.dll
