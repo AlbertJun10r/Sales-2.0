@@ -3,21 +3,36 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales-System 2.0.Domain", "Sales-System 2.0.Domain\Sales-System 2.0.Domain.csproj", "{B657EB56-07BA-42A0-8757-3A1643C61CB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sales-System 2.0.Domain", "Sales-System 2.0.Domain\Sales-System 2.0.Domain.csproj", "{B657EB56-07BA-42A0-8757-3A1643C61CB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales-System 2.0.Infrastruture", "Sales-System 2.0.Infrastruture\Sales-System 2.0.Infrastruture.csproj", "{6B7E7F2E-1EE6-4289-9762-45608F6D4814}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sales-System 2.0.Infrastruture", "Sales-System 2.0.Infrastruture\Sales-System 2.0.Infrastruture.csproj", "{6B7E7F2E-1EE6-4289-9762-45608F6D4814}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales-System 2.0.Application", "Sales-System 2.0.Application\Sales-System 2.0.Application.csproj", "{A187D0C7-3638-49BE-A868-2302E60DD5EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sales-System 2.0.Application", "Sales-System 2.0.Application\Sales-System 2.0.Application.csproj", "{A187D0C7-3638-49BE-A868-2302E60DD5EB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6B7E7F2E-1EE6-4289-9762-45608F6D4814} = {6B7E7F2E-1EE6-4289-9762-45608F6D4814}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales-System 2.0.IOC", "Sales-System 2.0.IOC\Sales-System 2.0.IOC.csproj", "{68C62819-DF32-48EF-8C0F-70EDC6126096}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sales-System 2.0.IOC", "Sales-System 2.0.IOC\Sales-System 2.0.IOC.csproj", "{68C62819-DF32-48EF-8C0F-70EDC6126096}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6B7E7F2E-1EE6-4289-9762-45608F6D4814} = {6B7E7F2E-1EE6-4289-9762-45608F6D4814}
+		{A187D0C7-3638-49BE-A868-2302E60DD5EB} = {A187D0C7-3638-49BE-A868-2302E60DD5EB}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales-System 2.0.Web", "Sales-System 2.0.Web\Sales-System 2.0.Web.csproj", "{08D7C421-6712-49CB-B2FF-1E17618DC80C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sales-System 2.0.Web", "Sales-System 2.0.Web\Sales-System 2.0.Web.csproj", "{08D7C421-6712-49CB-B2FF-1E17618DC80C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{68C62819-DF32-48EF-8C0F-70EDC6126096} = {68C62819-DF32-48EF-8C0F-70EDC6126096}
+		{A187D0C7-3638-49BE-A868-2302E60DD5EB} = {A187D0C7-3638-49BE-A868-2302E60DD5EB}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales-System 2.0.Api", "Sales-System 2.0.Api\Sales-System 2.0.Api.csproj", "{BADB62AE-27B7-492E-8DD8-8E5FA5519ACB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sales-System 2.0.Api", "Sales-System 2.0.Api\Sales-System 2.0.Api.csproj", "{BADB62AE-27B7-492E-8DD8-8E5FA5519ACB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{68C62819-DF32-48EF-8C0F-70EDC6126096} = {68C62819-DF32-48EF-8C0F-70EDC6126096}
+		{A187D0C7-3638-49BE-A868-2302E60DD5EB} = {A187D0C7-3638-49BE-A868-2302E60DD5EB}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales-System 2.0.UnitTest", "Sales-System 2.0.UnitTest\Sales-System 2.0.UnitTest.csproj", "{CE4C722F-92F9-4811-87EF-05B1CDA02570}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sales-System 2.0.UnitTest", "Sales-System 2.0.UnitTest\Sales-System 2.0.UnitTest.csproj", "{CE4C722F-92F9-4811-87EF-05B1CDA02570}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales-System 2.0.IntegrationTest", "Sales-System 2.0.IntegrationTest\Sales-System 2.0.IntegrationTest.csproj", "{A74BFD8D-61C5-4189-BE74-638CEC9112D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sales-System 2.0.IntegrationTest", "Sales-System 2.0.IntegrationTest\Sales-System 2.0.IntegrationTest.csproj", "{A74BFD8D-61C5-4189-BE74-638CEC9112D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

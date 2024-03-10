@@ -4,7 +4,7 @@ using Sales_System_2._0.Infrastructure.Core;
 using Sales_System_2._0.Infrastructure.Models;
 using Sales_System_2._0.Infrastructure.Interfaces;
 
-namespace Sales_System_2._0.Infraestructure.Repositories
+namespace Sales_System_2._0.Infrastructure.Repositories
 {
     public class UsuarioRepository : BaseRepository<Usuario>, IUsuarioRepository
     {
@@ -66,7 +66,7 @@ namespace Sales_System_2._0.Infraestructure.Repositories
                              {
                                  fechaRegistro = usu.fechaRegistro,
                                  idRol = usu.idRol,
-                                 nombreCompleto = usu.nombre,
+                                 nombre = usu.nombre,
                                  correo = usu.correo,
                                  idUsuario = usu.idUsuario,
                              })

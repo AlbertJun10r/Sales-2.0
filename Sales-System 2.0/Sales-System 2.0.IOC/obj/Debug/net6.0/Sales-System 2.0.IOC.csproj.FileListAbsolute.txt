@@ -1,0 +1,20 @@
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.IOC\bin\Debug\net6.0\Sales-System 2.0.IOC.deps.json
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.IOC\bin\Debug\net6.0\Sales-System 2.0.IOC.dll
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.IOC\bin\Debug\net6.0\Sales-System 2.0.IOC.pdb
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.IOC\bin\Debug\net6.0\Sales-System 2.0.Application.dll
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.IOC\bin\Debug\net6.0\Sales-System 2.0.Domain.dll
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.IOC\bin\Debug\net6.0\Sales-System 2.0.Infrastruture.dll
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.IOC\bin\Debug\net6.0\Sales-System 2.0.Application.pdb
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.IOC\bin\Debug\net6.0\Sales-System 2.0.Infrastruture.pdb
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.IOC\bin\Debug\net6.0\Sales-System 2.0.Domain.pdb
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.IOC\obj\Debug\net6.0\Sales-System 2.0.IOC.csproj.AssemblyReference.cache
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.IOC\obj\Debug\net6.0\Sales-System 2.0.IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.IOC\obj\Debug\net6.0\Sales-System 2.0.IOC.AssemblyInfoInputs.cache
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.IOC\obj\Debug\net6.0\Sales-System 2.0.IOC.AssemblyInfo.cs
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.IOC\obj\Debug\net6.0\Sales-System 2.0.IOC.csproj.CoreCompileInputs.cache
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.IOC\obj\Debug\net6.0\Sales-System 2.0.IOC.sourcelink.json
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.IOC\obj\Debug\net6.0\Sales-Sy.B39B724D.Up2Date
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.IOC\obj\Debug\net6.0\Sales-System 2.0.IOC.dll
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.IOC\obj\Debug\net6.0\refint\Sales-System 2.0.IOC.dll
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.IOC\obj\Debug\net6.0\Sales-System 2.0.IOC.pdb
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.IOC\obj\Debug\net6.0\ref\Sales-System 2.0.IOC.dll

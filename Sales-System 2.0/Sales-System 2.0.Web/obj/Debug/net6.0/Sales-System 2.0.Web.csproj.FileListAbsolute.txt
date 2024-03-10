@@ -28,3 +28,4 @@ C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-Syste
 C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.Web\obj\Debug\net6.0\Sales-System 2.0.Web.pdb
 C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.Web\obj\Debug\net6.0\Sales-System 2.0.Web.genruntimeconfig.cache
 C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.Web\obj\Debug\net6.0\ref\Sales-System 2.0.Web.dll
+C:\Users\alber\OneDrive\Escritorio\Sales-System 2.0\Sales-System 2.0\Sales-System 2.0.Web\obj\Debug\net6.0\Sales-System 2.0.Web.sourcelink.json

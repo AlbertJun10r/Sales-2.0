@@ -9,7 +9,7 @@ namespace Sales_System_2._0.Infrastructure.Models
     public class UsuarioModel
     {
         public int idUsuario { get; set; }
-        public string? nombreCompleto { get; set; }
+        public string? nombre { get; set; }
         public string? correo { get; set; }
         public string? clave { get; set; }
         public int? idRol { get; set; }
