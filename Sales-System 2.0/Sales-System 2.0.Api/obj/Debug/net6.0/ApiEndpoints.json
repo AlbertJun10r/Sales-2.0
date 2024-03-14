@@ -29,7 +29,7 @@
     "ContainingType": "Sales_System_2.API.Controllers.UsuarioController",
     "Method": "Remove",
     "RelativePath": "api/Usuario/RemoveUsuario",
-    "HttpMethod": "POST",
+    "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
     "Parameters": [
@@ -61,7 +61,7 @@
     "ContainingType": "Sales_System_2.API.Controllers.UsuarioController",
     "Method": "Put",
     "RelativePath": "api/Usuario/UpdateUsuario",
-    "HttpMethod": "POST",
+    "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
     "Parameters": [

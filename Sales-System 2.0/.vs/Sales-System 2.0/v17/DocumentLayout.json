@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-System 2.0\\Sales-System 2.0\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BADB62AE-27B7-492E-8DD8-8E5FA5519ACB}|Sales-System 2.0.Api\\Sales-System 2.0.Api.csproj|c:\\users\\alber\\onedrive\\escritorio\\sales-system 2.0\\sales-system 2.0\\sales-system 2.0.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BADB62AE-27B7-492E-8DD8-8E5FA5519ACB}|Sales-System 2.0.Api\\Sales-System 2.0.Api.csproj|solutionrelative:sales-system 2.0.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,15 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-System 2.0\\Sales-System 2.0\\Sales-System 2.0.Api\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Sales-System 2.0.Api\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-System 2.0\\Sales-System 2.0\\Sales-System 2.0.Api\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Sales-System 2.0.Api\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwBsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:24:38.262Z",
+              "EditorCaption": ""
             }
           ]
         }

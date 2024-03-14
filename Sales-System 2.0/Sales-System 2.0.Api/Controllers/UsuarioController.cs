@@ -59,8 +59,7 @@ namespace Sales_System_2.API.Controllers
         }
 
 
-        // POST api/<UsuarioController>
-        [HttpPost("UpdateUsuario")]
+        [HttpPut("UpdateUsuario")]
         public IActionResult Put([FromBody] UsuarioDtoUpdate usuarioUpdate)
         {
             var result = this.usuarioService.Update(usuarioUpdate);
@@ -73,7 +72,7 @@ namespace Sales_System_2.API.Controllers
             return Ok(result);
         }
 
-        [HttpPost("RemoveUsuario")]
+        [HttpDelete("RemoveUsuario")]
         public IActionResult Remove([FromBody] UsuarioDtoRemove usuarioDtoRemove)
         {
 
