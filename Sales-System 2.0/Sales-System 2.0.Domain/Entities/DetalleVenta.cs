@@ -6,15 +6,15 @@ namespace Sales_System_2._0.Domain.Entities
     public class DetalleVenta : BaseEntity
     {
         [Key]
-        public int idDetalleVenta { get; set; }
-        public int? idVenta { get; set; }
-        public int? idProducto { get; set; }
+        public int IdDetalleVenta { get; set; }
+        public int? IdVenta { get; set; }
+        public int? IdProducto { get; set; }
         public String? MarcaProducto { get; set; }
-        public String? descripcionProducto { get; set; }
-        public String? categoriaProducto { get; set; }
-        public int cantidad { get; set; }
-        public decimal? precio { get; set; }
-        public decimal? total { get; set; }
+        public String? DescripcionProducto { get; set; }
+        public String? CategoriaProducto { get; set; }
+        public int Cantidad { get; set; }
+        public decimal? Precio { get; set; }
+        public decimal? Total { get; set; }
 
 
     }

@@ -6,7 +6,7 @@ namespace Sales_System_2._0.Application.Excepctions
     {
         public UsuarioServiceExcepcion(string message) : base(message)
         {
-            // realizar x logica //
+
         }
     }
 }

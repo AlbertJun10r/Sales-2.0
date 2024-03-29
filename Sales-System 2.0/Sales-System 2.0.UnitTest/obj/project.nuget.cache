@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WpcvqQZjnJMtlKQaaOAX6Xyi+wkFibkEW7R0K2rDgu2qe2kFwDitb/fFdhl2ih4ItLdx4Tt8f10Nf/n7ppRlvQ==",
+  "dgSpecHash": "88TBAa9LghCbQHco3f8Ovz3e+vFlwQBIRpW9goX9/T2q/VDvTnySpCqXQOdV+29lXG6OfXxK28a3R5CmlBuEmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-System 2.0\\Sales-System 2.0\\Sales-System 2.0.UnitTest\\Sales-System 2.0.UnitTest.csproj",
+  "projectFilePath": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.UnitTest\\Sales-System 2.0.UnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alber\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\alber\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
@@ -95,7 +95,10 @@
     "C:\\Users\\alber\\.nuget\\packages\\xunit.core\\2.4.1\\xunit.core.2.4.1.nupkg.sha512",
     "C:\\Users\\alber\\.nuget\\packages\\xunit.extensibility.core\\2.4.1\\xunit.extensibility.core.2.4.1.nupkg.sha512",
     "C:\\Users\\alber\\.nuget\\packages\\xunit.extensibility.execution\\2.4.1\\xunit.extensibility.execution.2.4.1.nupkg.sha512",
-    "C:\\Users\\alber\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512"
+    "C:\\Users\\alber\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512"
   ],
   "logs": []
 }

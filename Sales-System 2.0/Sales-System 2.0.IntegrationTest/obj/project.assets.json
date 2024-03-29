@@ -6114,11 +6114,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-System 2.0\\Sales-System 2.0\\Sales-System 2.0.IntegrationTest\\Sales-System 2.0.IntegrationTest.csproj",
+      "projectUniqueName": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.IntegrationTest\\Sales-System 2.0.IntegrationTest.csproj",
       "projectName": "Sales-System 2.0.IntegrationTest",
-      "projectPath": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-System 2.0\\Sales-System 2.0\\Sales-System 2.0.IntegrationTest\\Sales-System 2.0.IntegrationTest.csproj",
+      "projectPath": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.IntegrationTest\\Sales-System 2.0.IntegrationTest.csproj",
       "packagesPath": "C:\\Users\\alber\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-System 2.0\\Sales-System 2.0\\Sales-System 2.0.IntegrationTest\\obj\\",
+      "outputPath": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.IntegrationTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alber\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6184,6 +6184,20 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.27, 6.0.27]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.27, 6.0.27]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.27, 6.0.27]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

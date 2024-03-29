@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R2gOdmTFbXrY5VQH9lX61UDhQvVebIjZWRXpRTBCwLJNYBuKVZ6rxwlCExKoppU9iZxPblzbXSxmvTQKQZnnCQ==",
+  "dgSpecHash": "iutOqxzVrbPQEtyftGDMlJl55Dp28pCqm9BxAWxp9LBx4ktZDnqXUoGf4+a+Is2Ri1EH1qvQf214Vzvj7sIq4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-System 2.0\\Sales-System 2.0\\Sales-System 2.0.IOC\\Sales-System 2.0.IOC.csproj",
+  "projectFilePath": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.IOC\\Sales-System 2.0.IOC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alber\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\alber\\.nuget\\packages\\gherkin\\19.0.3\\gherkin.19.0.3.nupkg.sha512",
@@ -114,7 +114,10 @@
     "C:\\Users\\alber\\.nuget\\packages\\system.threading.tasks.extensions\\4.0.0\\system.threading.tasks.extensions.4.0.0.nupkg.sha512",
     "C:\\Users\\alber\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
     "C:\\Users\\alber\\.nuget\\packages\\system.xml.readerwriter\\4.0.11\\system.xml.readerwriter.4.0.11.nupkg.sha512",
-    "C:\\Users\\alber\\.nuget\\packages\\system.xml.xdocument\\4.0.11\\system.xml.xdocument.4.0.11.nupkg.sha512"
+    "C:\\Users\\alber\\.nuget\\packages\\system.xml.xdocument\\4.0.11\\system.xml.xdocument.4.0.11.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512"
   ],
   "logs": []
 }

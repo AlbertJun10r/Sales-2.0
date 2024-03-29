@@ -3,9 +3,9 @@
     public class GetUsuarioModel
     {
         public int IdUsuarioCreacion { get; set; }
-        public string? nombre { get; set; }
-        public string? correo { get; set; }
-        public string? clave { get; set; }
-        public DateTime? fechaRegistro { get; set; }
+        public string? Nombre { get; set; }
+        public string? Correo { get; set; }
+        public string? Clave { get; set; }
+        public DateTime? FechaRegistro { get; set; }
     }
 }

@@ -6316,11 +6316,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-System 2.0\\Sales-System 2.0\\Sales-System 2.0.IOC\\Sales-System 2.0.IOC.csproj",
+      "projectUniqueName": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.IOC\\Sales-System 2.0.IOC.csproj",
       "projectName": "Sales-System 2.0.IOC",
-      "projectPath": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-System 2.0\\Sales-System 2.0\\Sales-System 2.0.IOC\\Sales-System 2.0.IOC.csproj",
+      "projectPath": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.IOC\\Sales-System 2.0.IOC.csproj",
       "packagesPath": "C:\\Users\\alber\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-System 2.0\\Sales-System 2.0\\Sales-System 2.0.IOC\\obj\\",
+      "outputPath": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.IOC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alber\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6337,11 +6337,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-System 2.0\\Sales-System 2.0\\Sales-System 2.0.Application\\Sales-System 2.0.Application.csproj": {
-              "projectPath": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-System 2.0\\Sales-System 2.0\\Sales-System 2.0.Application\\Sales-System 2.0.Application.csproj"
+            "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.Application\\Sales-System 2.0.Application.csproj": {
+              "projectPath": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.Application\\Sales-System 2.0.Application.csproj"
             },
-            "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-System 2.0\\Sales-System 2.0\\Sales-System 2.0.Infrastruture\\Sales-System 2.0.Infrastruture.csproj": {
-              "projectPath": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-System 2.0\\Sales-System 2.0\\Sales-System 2.0.Infrastruture\\Sales-System 2.0.Infrastruture.csproj"
+            "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.Infrastruture\\Sales-System 2.0.Infrastruture.csproj": {
+              "projectPath": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.Infrastruture\\Sales-System 2.0.Infrastruture.csproj"
             }
           }
         }
@@ -6377,6 +6377,20 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.27, 6.0.27]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.27, 6.0.27]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.27, 6.0.27]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

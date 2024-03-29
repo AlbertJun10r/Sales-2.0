@@ -6,11 +6,11 @@ namespace Sales_System_2._0.Domain.Entities
     public class NumeroCorrelativo : BaseEntity
     {
         [Key]
-        public int idNumeroDocumento { get; set; }
-        public int ultimoNumero { get; set; }
-        public int? cantidadDigitos { get; set; }
-        public String? gestion { get; set; }
-        public DateTime? fechaActualizacion { get; set; }
+        public int IdNumeroDocumento { get; set; }
+        public int UltimoNumero { get; set; }
+        public int? CantidadDigitos { get; set; }
+        public String? Gestion { get; set; }
+        public DateTime? FechaActualizacion { get; set; }
 
 
     }

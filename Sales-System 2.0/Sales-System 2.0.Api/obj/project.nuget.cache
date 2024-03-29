@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DybJbWYFjtut0mC5lnb+47vOfrcD7BD3R7TjpxCXDvwsuUXNoFASmqUQBy7jFDC8qZ1cH4P51osMuHH/LGw7yg==",
+  "dgSpecHash": "bOXW27sn7hBCMlWAMGU4G25hZvzyohDCFpGqknQTGr4qRSXOlZSM/LNZl8umGZUIfD3a0u7k0+IvzFwXnnVSGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-System 2.0\\Sales-System 2.0\\Sales-System 2.0.Api\\Sales-System 2.0.Api.csproj",
+  "projectFilePath": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.Api\\Sales-System 2.0.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alber\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\alber\\.nuget\\packages\\gherkin\\19.0.3\\gherkin.19.0.3.nupkg.sha512",

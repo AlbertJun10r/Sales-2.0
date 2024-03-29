@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "/knnf/fV+pjaLw0aJsy1VYxWkQd7+ew8qeQzSrG0HBC7PbfyhkJxAxwcN1kZtB+H8aD4zIVTLy7lJISJoNQSPQ==",
+  "dgSpecHash": "25uFJu2wDZ+llSyMe7p+mjsrqK9f4PLthv8arCKhkNDpc5IWXNClh4mjaL7dr5W6G0UQrkn9E2LZyjVKSw21+g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-System 2.0\\Sales-System 2.0\\Sales-System 2.0.Web\\Sales-System 2.0.Web.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.Web\\Sales-System 2.0.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alber\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
   "logs": []
 }

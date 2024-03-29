@@ -6,9 +6,9 @@ namespace Sales_System_2._0.Domain.Entities
     public class MenuRol : BaseEntity
     {
         [Key]
-        public int idMenuRol { get; set; }
-        public int idMenu { get; set; }
-        public int idRol { get; set; }
+        public int IdMenuRol { get; set; }
+        public int IdMenu { get; set; }
+        public int IdRol { get; set; }
 
     }
 }

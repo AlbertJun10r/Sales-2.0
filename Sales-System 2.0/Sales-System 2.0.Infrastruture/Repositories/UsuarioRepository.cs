@@ -28,15 +28,15 @@ namespace Sales_System_2._0.Infrastructure.Repositories
 
         public override void Update(Usuario entity)
         {
-            Usuario usuario = this.GetEntity(entity.idUsuario);
+            Usuario usuario = this.GetEntity(entity.Id);
 
-            usuario.idUsuario = entity.idUsuario;
+            usuario.Id = entity.Id;
             usuario.FechaMod = entity.FechaMod;
             usuario.IdUsuarioMod = entity.IdUsuarioMod;
-            usuario.nombre = entity.nombre;
-            usuario.correo = entity.correo;
-            usuario.clave = entity.clave;
-            usuario.idRol = entity.idRol;
+            usuario.Nombre = entity.Nombre;
+            usuario.Correo = entity.Correo;
+            usuario.Clave = entity.Clave;
+            usuario.IdRol = entity.IdRol;
 
             this.context.Usuario.Update(usuario);
             this.context.SaveChanges();
@@ -46,9 +46,9 @@ namespace Sales_System_2._0.Infrastructure.Repositories
 
         public override void Remove(Usuario entity)
         {
-            Usuario usuario = this.GetEntity(entity.idUsuario);
+            Usuario usuario = this.GetEntity(entity.Id);
 
-            usuario.idUsuario = entity.idUsuario;
+            usuario.Id = entity.Id;
             usuario.Eliminado = entity.Eliminado = true;
             usuario.IdUsuarioElimino = entity.IdUsuarioElimino;
             usuario.FechaElimino = entity.FechaElimino;
@@ -61,24 +61,24 @@ namespace Sales_System_2._0.Infrastructure.Repositories
         {
             var usuarios = this.context.Usuario
                              .Where(usu => !usu.Eliminado)
-                             .OrderByDescending(usu => usu.fechaRegistro)
+                             .OrderByDescending(usu => usu.FechaRegistro)
                              .Select(usu => new UsuarioModel
                              {
-                                 fechaRegistro = usu.fechaRegistro,
-                                 idRol = usu.idRol,
-                                 nombre = usu.nombre,
-                                 correo = usu.correo,
-                                 idUsuario = usu.idUsuario,
+                                 FechaRegistro = usu.FechaRegistro,
+                                 IdRol = usu.IdRol,
+                                 Nombre = usu.Nombre,
+                                 Correo = usu.Correo,
+                                 Id = usu.Id,
                              })
                                 .ToList();
 
             return usuarios;
         }
 
-        public UsuarioModel GetUsuario(int idUsuario)
+        public UsuarioModel GetUsuario(int IdUsuario)
         {
             var usuarios = this.GetUsuarios();
-            return usuarios.Find(s => s.idUsuario == idUsuario);
+            return usuarios.Find(s => s.Id == IdUsuario);
         }
     }
 }
