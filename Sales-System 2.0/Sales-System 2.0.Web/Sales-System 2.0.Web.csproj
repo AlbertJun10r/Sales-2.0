@@ -7,4 +7,13 @@
     <RootNamespace>Sales_System_2._0.Web</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="GoogleApi" Version="5.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Sales-System 2.0.Application\Sales-System 2.0.Application.csproj" />
+    <ProjectReference Include="..\Sales-System 2.0.IOC\Sales-System 2.0.IOC.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -33,28 +33,28 @@ namespace Sales_System_2._0.Application.Validations
                 return result;
             }
 
-            if (string.IsNullOrEmpty(usuarioDtoAdd.nombre))
+            if (string.IsNullOrEmpty(usuarioDtoAdd.Nombre))
             {
                 result.Message = "El nombre completo es requerido.";
                 result.Success = false;
                 return result;
             }
 
-            if (usuarioDtoAdd.nombre.Length > 50)
+            if (usuarioDtoAdd.Nombre.Length > 50)
             {
                 result.Message = "El nombre completo no puede exceder los 50 caracteres.";
                 result.Success = false;
                 return result;
             }
 
-            if (string.IsNullOrEmpty(usuarioDtoAdd.clave))
+            if (string.IsNullOrEmpty(usuarioDtoAdd.Clave))
             {
                 result.Message = "La clave es requerida.";
                 result.Success = false;
                 return result;
             }
 
-            if (string.IsNullOrEmpty(usuarioDtoAdd.correo))
+            if (string.IsNullOrEmpty(usuarioDtoAdd.Correo))
             {
                 result.Message = "El correo es requerido.";
                 result.Success = false;
@@ -68,7 +68,7 @@ namespace Sales_System_2._0.Application.Validations
         {
             ServiceResult result = new ServiceResult();
 
-            if (usuarioDtoUpdate.idUsuario <= 0)
+            if (usuarioDtoUpdate.Id <= 0)
             {
                 result.Message = "Debe seleccionar un id usuario válido.";
                 result.Success = false;
@@ -82,7 +82,7 @@ namespace Sales_System_2._0.Application.Validations
                 return result;
             }
 
-            if (usuarioDtoUpdate.nombre?.Length > 50)
+            if (usuarioDtoUpdate.Nombre?.Length > 50)
             {
                 result.Message = "El nombre completo no puede exceder los 50 caracteres.";
                 result.Success = false;
@@ -103,7 +103,7 @@ namespace Sales_System_2._0.Application.Validations
                 return result;
             }
 
-            if (usuarioDtoRemove.idUsuario <= 0)
+            if (usuarioDtoRemove.Id <= 0)
             {
                 result.Message = "Debe seleccionar un id usuario válido.";
                 result.Success = false;

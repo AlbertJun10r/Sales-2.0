@@ -5,6 +5,6 @@ namespace Sales_System_2._0.Application.Response
 {
     public class UsuarioResponse : ServiceResult
     {
-        public int idUsuario { get; set; }
+        public int Id { get; set; }
     }
 }

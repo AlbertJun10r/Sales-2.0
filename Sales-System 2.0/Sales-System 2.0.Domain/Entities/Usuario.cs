@@ -11,11 +11,11 @@ namespace Sales_System_2._0.Domain.Entities
     public class Usuario : Person
     {
         [Key]
-        public int idUsuario { get; set; }
-        public String? nombre{ get; set; }
+        public int Id { get; set; }
+        public String? Nombre{ get; set; }
         public int Telefono { get; set; }
-        public int? idRol { get; set; }
-        public String? urlFoto { get; set; }
-        public String? nombreFoto { get; set; }
+        public int? IdRol { get; set; }
+        public String? UrlFoto { get; set; }
+        public String? NombreFoto { get; set; }
     }
 }

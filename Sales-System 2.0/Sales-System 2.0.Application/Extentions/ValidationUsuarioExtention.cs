@@ -13,20 +13,20 @@ namespace Sales_System_2._0.Application.Extentions
 
             ServiceResult Result = new ServiceResult();
 
-            if (string.IsNullOrEmpty(dtoBase.nombre))
+            if (string.IsNullOrEmpty(dtoBase.Nombre))
                 throw new UsuarioServiceExcepcion(configuration["MensajeValidaciones:UsuarioNombreRequerido"]);
 
 
-            if (dtoBase.nombre.Length > 50)
+            if (dtoBase.Nombre.Length > 50)
                 throw new UsuarioServiceExcepcion(configuration["MensajeValidaciones:UsuarioNombreLongitud"]);
 
-            if (string.IsNullOrEmpty(dtoBase.correo))
+            if (string.IsNullOrEmpty(dtoBase.Correo))
                 throw new UsuarioServiceExcepcion(configuration["MensajeValidaciones:UsuarioCorreoRequerido"]);
 
-            if (dtoBase.correo.Length > 50)
+            if (dtoBase.Correo.Length > 50)
                 throw new UsuarioServiceExcepcion(configuration["MensajeValidaciones:UsuarioCorreoApellidoLongitud"]);
 
-            if (!dtoBase.fechaRegistro.HasValue)
+            if (!dtoBase.FechaRegistro.HasValue)
                 throw new UsuarioServiceExcepcion(configuration["MensajeValidaciones:UsuarioFechaRegistroRequerido"]);
 
 

@@ -9,6 +9,13 @@ namespace Sales_System_2._0.Infrastructure.Context
         {
 
         }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+
+            modelBuilder.Entity<Usuario>().ToTable("Usuario");
+        }
     }
 
     public partial class SalesContext

@@ -4,8 +4,8 @@ namespace Sales_System_2._0.Application.Dtos.Usuario
 {
     public class UsuarioDtoRemove : DtoBase
     {
-        public string? nombre { get; set; }
-        public int idUsuario { get; set; }
+        public string? Nombre { get; set; }
+        public int Id { get; set; }
         public bool Eliminado { get; set; }
     }
 }

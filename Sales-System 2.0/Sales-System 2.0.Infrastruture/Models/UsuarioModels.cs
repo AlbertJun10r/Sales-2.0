@@ -8,11 +8,11 @@ namespace Sales_System_2._0.Infrastructure.Models
 {
     public class UsuarioModel
     {
-        public int idUsuario { get; set; }
-        public string? nombre { get; set; }
-        public string? correo { get; set; }
-        public string? clave { get; set; }
-        public int? idRol { get; set; }
-        public DateTime? fechaRegistro { get; set; }
+        public int Id { get; set; }
+        public string? Nombre { get; set; }
+        public string? Correo { get; set; }
+        public string? Clave { get; set; }
+        public int? IdRol { get; set; }
+        public DateTime? FechaRegistro { get; set; }
     }
 }

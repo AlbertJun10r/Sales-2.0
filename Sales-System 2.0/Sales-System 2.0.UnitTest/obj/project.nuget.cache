@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WpcvqQZjnJMtlKQaaOAX6Xyi+wkFibkEW7R0K2rDgu2qe2kFwDitb/fFdhl2ih4ItLdx4Tt8f10Nf/n7ppRlvQ==",
+  "dgSpecHash": "T+WzKPG7xj6MDB9dcbS3lpDKrDnKOjO01O7WdE44FEZblfkYAHvigfJRtoKO1BqUVvdm1Xm6mKEL53VQk0vyfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-System 2.0\\Sales-System 2.0\\Sales-System 2.0.UnitTest\\Sales-System 2.0.UnitTest.csproj",
+  "projectFilePath": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.UnitTest\\Sales-System 2.0.UnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alber\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\alber\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

@@ -97,7 +97,7 @@ namespace Sales_System_2._0.Application.Service
             {
                 Usuario usuario = new Usuario()
                 {
-                    idUsuario = dtoRemove.idUsuario,
+                    Id = dtoRemove.Id,
                     Eliminado = dtoRemove.Eliminado,
                     IdUsuarioElimino = dtoRemove.IdUsuarioMod,
                     FechaElimino = dtoRemove.FechaMod
@@ -136,18 +136,18 @@ namespace Sales_System_2._0.Application.Service
 
                 Usuario usuario = new Usuario()
                 {
-                    fechaRegistro = dtoAdd.FechaMod,
+                    FechaRegistro = dtoAdd.FechaMod,
                     IdUsuarioCreacion = dtoAdd.IdUsuarioMod,
-                    idRol = dtoAdd.idRol,
-                    nombre = dtoAdd.nombre,
-                    correo = dtoAdd.correo,
-                    clave = dtoAdd.clave,
+                    IdRol = dtoAdd.IdRol,
+                    Nombre = dtoAdd.Nombre,
+                    Correo = dtoAdd.Correo,
+                    Clave = dtoAdd.Clave,
                 };
 
                 this.usuarioRepository.Save(usuario);
 
                 result.Message = this.configuration["MensajesUsuarioSuccess:AddSuccessMessage"];
-                result.idUsuario = usuario.idUsuario;
+                result.Id = usuario.Id;
             }
             catch (UsuarioServiceExcepcion ssex)
             {
@@ -173,21 +173,21 @@ namespace Sales_System_2._0.Application.Service
 
             try
             {
-                if (string.IsNullOrEmpty(dtoUpdate.nombre))
+                if (string.IsNullOrEmpty(dtoUpdate.Nombre))
                     throw new UsuarioServiceExcepcion(this.configuration["MensajeValidaciones:UsuarioNombreRequerido"]);
 
 
-                if (dtoUpdate.nombre.Length > 100)
+                if (dtoUpdate.Nombre.Length > 100)
                     throw new UsuarioServiceExcepcion(this.configuration["MensajeValidaciones:UsuarioNombreLongitud"]);
 
                 Usuario usuario = new Usuario()
                 {
-                    idUsuario = dtoUpdate.idUsuario,
-                    nombre = dtoUpdate.nombre,
-                    idRol = dtoUpdate.idRol,
-                    FechaMod = dtoUpdate.fechaRegistro,
-                    correo = dtoUpdate.correo,
-                    clave = dtoUpdate.clave,
+                    Id = dtoUpdate.Id,
+                    Nombre = dtoUpdate.Nombre,
+                    IdRol = dtoUpdate.IdRol,
+                    FechaMod = dtoUpdate.FechaRegistro,
+                    Correo = dtoUpdate.Correo,
+                    Clave = dtoUpdate.Clave,
                     IdUsuarioCreacion = dtoUpdate.IdUsuarioMod
                 };
                 this.usuarioRepository.Update(usuario);

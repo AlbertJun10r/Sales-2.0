@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dfCKi7MwpqdKsJz+DZHNhIqBuqutZjRNTjCCm5PCTfqO3HqzWCLNyQsClCsdQhgPQTJ0V+97U3mW+Eo5spPhNw==",
+  "dgSpecHash": "7dVcvDgNcLhveeae8+Tw0JqrEblNW716Lbv1x2hVAZ5UOG0fuad8DMFqbdCpr2yQ/nw3q3rM/0Eyx1IoOpXSbg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-System 2.0\\Sales-System 2.0\\Sales-System 2.0.Infrastruture\\Sales-System 2.0.Infrastruture.csproj",
+  "projectFilePath": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.Infrastruture\\Sales-System 2.0.Infrastruture.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alber\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\alber\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.7\\microsoft.data.sqlclient.2.1.7.nupkg.sha512",

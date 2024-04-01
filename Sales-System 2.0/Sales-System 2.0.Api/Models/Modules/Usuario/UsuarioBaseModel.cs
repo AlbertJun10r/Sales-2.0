@@ -4,9 +4,9 @@ namespace Sales_System_2._0.Api.Models.Modules.Usuario
 {
     public class UsuarioBaseModel : ModelBase
     {
-        public string? nombre { get; set; }
-        public string? correo { get; set; }
-        public DateTime? fechaRegistro { get; set; }
-        public bool? esActivo { get; set; }
+        public string? Nombre { get; set; }
+        public string? Correo { get; set; }
+        public DateTime? FechaRegistro { get; set; }
+        public bool? EsActivo { get; set; }
     }
 }
