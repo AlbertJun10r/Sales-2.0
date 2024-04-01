@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "O+GSV7ctNCMcgMDxmUjnwZDNdbHrZU+C92uSt/ahGIjYRMGibtUQdTFjmg7Hbr02On6GP6EDO17xjfsepeLtNw==",
+  "dgSpecHash": "fqbNJ12yUwBxZf5PKeXzunv9xZWWxtDwdSQ8xiNz7faMb58l937opMrXddSoaQA7QCaALvtj4erWvMlvLWVSEA==",
   "success": true,
   "projectFilePath": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.IntegrationTest\\Sales-System 2.0.IntegrationTest.csproj",
   "expectedPackageFiles": [
@@ -95,10 +95,7 @@
     "C:\\Users\\alber\\.nuget\\packages\\xunit.core\\2.4.1\\xunit.core.2.4.1.nupkg.sha512",
     "C:\\Users\\alber\\.nuget\\packages\\xunit.extensibility.core\\2.4.1\\xunit.extensibility.core.2.4.1.nupkg.sha512",
     "C:\\Users\\alber\\.nuget\\packages\\xunit.extensibility.execution\\2.4.1\\xunit.extensibility.execution.2.4.1.nupkg.sha512",
-    "C:\\Users\\alber\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512",
-    "C:\\Users\\alber\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
-    "C:\\Users\\alber\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
-    "C:\\Users\\alber\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512"
+    "C:\\Users\\alber\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512"
   ],
   "logs": []
 }

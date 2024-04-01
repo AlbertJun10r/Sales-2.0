@@ -3,48 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B7E7F2E-1EE6-4289-9762-45608F6D4814}|Sales-System 2.0.Infrastruture\\Sales-System 2.0.Infrastruture.csproj|c:\\users\\alber\\onedrive\\escritorio\\sales-2.0\\sales-system 2.0\\sales-system 2.0.infrastruture\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B7E7F2E-1EE6-4289-9762-45608F6D4814}|Sales-System 2.0.Infrastruture\\Sales-System 2.0.Infrastruture.csproj|solutionrelative:sales-system 2.0.infrastruture\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A187D0C7-3638-49BE-A868-2302E60DD5EB}|Sales-System 2.0.Application\\Sales-System 2.0.Application.csproj|c:\\users\\alber\\onedrive\\escritorio\\sales-2.0\\sales-system 2.0\\sales-system 2.0.application\\service\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A187D0C7-3638-49BE-A868-2302E60DD5EB}|Sales-System 2.0.Application\\Sales-System 2.0.Application.csproj|solutionrelative:sales-system 2.0.application\\service\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BADB62AE-27B7-492E-8DD8-8E5FA5519ACB}|Sales-System 2.0.Api\\Sales-System 2.0.Api.csproj|c:\\users\\alber\\onedrive\\escritorio\\sales-2.0\\sales-system 2.0\\sales-system 2.0.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BADB62AE-27B7-492E-8DD8-8E5FA5519ACB}|Sales-System 2.0.Api\\Sales-System 2.0.Api.csproj|solutionrelative:sales-system 2.0.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A187D0C7-3638-49BE-A868-2302E60DD5EB}|Sales-System 2.0.Application\\Sales-System 2.0.Application.csproj|c:\\users\\alber\\onedrive\\escritorio\\sales-2.0\\sales-system 2.0\\sales-system 2.0.application\\validations\\usuariovalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A187D0C7-3638-49BE-A868-2302E60DD5EB}|Sales-System 2.0.Application\\Sales-System 2.0.Application.csproj|solutionrelative:sales-system 2.0.application\\validations\\usuariovalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A187D0C7-3638-49BE-A868-2302E60DD5EB}|Sales-System 2.0.Application\\Sales-System 2.0.Application.csproj|c:\\users\\alber\\onedrive\\escritorio\\sales-2.0\\sales-system 2.0\\sales-system 2.0.application\\response\\usuarioresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A187D0C7-3638-49BE-A868-2302E60DD5EB}|Sales-System 2.0.Application\\Sales-System 2.0.Application.csproj|solutionrelative:sales-system 2.0.application\\response\\usuarioresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A187D0C7-3638-49BE-A868-2302E60DD5EB}|Sales-System 2.0.Application\\Sales-System 2.0.Application.csproj|c:\\users\\alber\\onedrive\\escritorio\\sales-2.0\\sales-system 2.0\\sales-system 2.0.application\\dtos\\usuario\\usuariodtoupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A187D0C7-3638-49BE-A868-2302E60DD5EB}|Sales-System 2.0.Application\\Sales-System 2.0.Application.csproj|solutionrelative:sales-system 2.0.application\\dtos\\usuario\\usuariodtoupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A187D0C7-3638-49BE-A868-2302E60DD5EB}|Sales-System 2.0.Application\\Sales-System 2.0.Application.csproj|c:\\users\\alber\\onedrive\\escritorio\\sales-2.0\\sales-system 2.0\\sales-system 2.0.application\\dtos\\usuario\\usuariodtoremove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A187D0C7-3638-49BE-A868-2302E60DD5EB}|Sales-System 2.0.Application\\Sales-System 2.0.Application.csproj|solutionrelative:sales-system 2.0.application\\dtos\\usuario\\usuariodtoremove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A187D0C7-3638-49BE-A868-2302E60DD5EB}|Sales-System 2.0.Application\\Sales-System 2.0.Application.csproj|c:\\users\\alber\\onedrive\\escritorio\\sales-2.0\\sales-system 2.0\\sales-system 2.0.application\\dtos\\usuario\\usuariodtogetall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A187D0C7-3638-49BE-A868-2302E60DD5EB}|Sales-System 2.0.Application\\Sales-System 2.0.Application.csproj|solutionrelative:sales-system 2.0.application\\dtos\\usuario\\usuariodtogetall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6B7E7F2E-1EE6-4289-9762-45608F6D4814}|Sales-System 2.0.Infrastruture\\Sales-System 2.0.Infrastruture.csproj|c:\\users\\alber\\onedrive\\escritorio\\sales-2.0\\sales-system 2.0\\sales-system 2.0.infrastruture\\models\\usuariomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B7E7F2E-1EE6-4289-9762-45608F6D4814}|Sales-System 2.0.Infrastruture\\Sales-System 2.0.Infrastruture.csproj|solutionrelative:sales-system 2.0.infrastruture\\models\\usuariomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B657EB56-07BA-42A0-8757-3A1643C61CB4}|Sales-System 2.0.Domain\\Sales-System 2.0.Domain.csproj|c:\\users\\alber\\onedrive\\escritorio\\sales-2.0\\sales-system 2.0\\sales-system 2.0.domain\\entities\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B657EB56-07BA-42A0-8757-3A1643C61CB4}|Sales-System 2.0.Domain\\Sales-System 2.0.Domain.csproj|solutionrelative:sales-system 2.0.domain\\entities\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B657EB56-07BA-42A0-8757-3A1643C61CB4}|Sales-System 2.0.Domain\\Sales-System 2.0.Domain.csproj|c:\\users\\alber\\onedrive\\escritorio\\sales-2.0\\sales-system 2.0\\sales-system 2.0.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B657EB56-07BA-42A0-8757-3A1643C61CB4}|Sales-System 2.0.Domain\\Sales-System 2.0.Domain.csproj|solutionrelative:sales-system 2.0.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08D7C421-6712-49CB-B2FF-1E17618DC80C}|Sales-System 2.0.Web\\Sales-System 2.0.Web.csproj|c:\\users\\alber\\onedrive\\escritorio\\sales-2.0\\sales-system 2.0\\sales-system 2.0.web\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D7C421-6712-49CB-B2FF-1E17618DC80C}|Sales-System 2.0.Web\\Sales-System 2.0.Web.csproj|solutionrelative:sales-system 2.0.web\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,149 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UsuarioDtoUpdate.cs",
-              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.Application\\Dtos\\Usuario\\UsuarioDtoUpdate.cs",
-              "RelativeDocumentMoniker": "Sales-System 2.0.Application\\Dtos\\Usuario\\UsuarioDtoUpdate.cs",
-              "ToolTip": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.Application\\Dtos\\Usuario\\UsuarioDtoUpdate.cs",
-              "RelativeToolTip": "Sales-System 2.0.Application\\Dtos\\Usuario\\UsuarioDtoUpdate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T02:20:14.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UsuarioDtoRemove.cs",
-              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.Application\\Dtos\\Usuario\\UsuarioDtoRemove.cs",
-              "RelativeDocumentMoniker": "Sales-System 2.0.Application\\Dtos\\Usuario\\UsuarioDtoRemove.cs",
-              "ToolTip": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.Application\\Dtos\\Usuario\\UsuarioDtoRemove.cs",
-              "RelativeToolTip": "Sales-System 2.0.Application\\Dtos\\Usuario\\UsuarioDtoRemove.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T02:20:01.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UsuarioDtoGetAll.cs",
-              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.Application\\Dtos\\Usuario\\UsuarioDtoGetAll.cs",
-              "RelativeDocumentMoniker": "Sales-System 2.0.Application\\Dtos\\Usuario\\UsuarioDtoGetAll.cs",
-              "ToolTip": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.Application\\Dtos\\Usuario\\UsuarioDtoGetAll.cs",
-              "RelativeToolTip": "Sales-System 2.0.Application\\Dtos\\Usuario\\UsuarioDtoGetAll.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T02:18:30.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UsuarioModels.cs",
-              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.Infrastruture\\Models\\UsuarioModels.cs",
-              "RelativeDocumentMoniker": "Sales-System 2.0.Infrastruture\\Models\\UsuarioModels.cs",
-              "ToolTip": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.Infrastruture\\Models\\UsuarioModels.cs",
-              "RelativeToolTip": "Sales-System 2.0.Infrastruture\\Models\\UsuarioModels.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T02:17:21.399Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Rol.cs",
-              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.Domain\\Entities\\Rol.cs",
-              "RelativeDocumentMoniker": "Sales-System 2.0.Domain\\Entities\\Rol.cs",
-              "ToolTip": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.Domain\\Entities\\Rol.cs",
-              "RelativeToolTip": "Sales-System 2.0.Domain\\Entities\\Rol.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T02:16:37.572Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.Domain\\Entities\\Usuario.cs",
-              "RelativeDocumentMoniker": "Sales-System 2.0.Domain\\Entities\\Usuario.cs",
-              "ToolTip": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.Domain\\Entities\\Usuario.cs",
-              "RelativeToolTip": "Sales-System 2.0.Domain\\Entities\\Usuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T02:14:59.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.Api\\Program.cs",
-              "RelativeDocumentMoniker": "Sales-System 2.0.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.Api\\Program.cs",
-              "RelativeToolTip": "Sales-System 2.0.Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T01:40:16.606Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.Infrastruture\\Repositories\\UsuarioRepository.cs",
-              "RelativeDocumentMoniker": "Sales-System 2.0.Infrastruture\\Repositories\\UsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.Infrastruture\\Repositories\\UsuarioRepository.cs",
-              "RelativeToolTip": "Sales-System 2.0.Infrastruture\\Repositories\\UsuarioRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAzAAAA",
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.Web\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Sales-System 2.0.Web\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.Web\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Sales-System 2.0.Web\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T02:02:28.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsuarioResponse.cs",
-              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.Application\\Response\\UsuarioResponse.cs",
-              "RelativeDocumentMoniker": "Sales-System 2.0.Application\\Response\\UsuarioResponse.cs",
-              "ToolTip": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.Application\\Response\\UsuarioResponse.cs",
-              "RelativeToolTip": "Sales-System 2.0.Application\\Response\\UsuarioResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T02:20:37.698Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.Application\\Service\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "Sales-System 2.0.Application\\Service\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.Application\\Service\\UsuarioService.cs",
-              "RelativeToolTip": "Sales-System 2.0.Application\\Service\\UsuarioService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T02:20:44.757Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UsuarioValidation.cs",
-              "DocumentMoniker": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.Application\\Validations\\UsuarioValidation.cs",
-              "RelativeDocumentMoniker": "Sales-System 2.0.Application\\Validations\\UsuarioValidation.cs",
-              "ToolTip": "C:\\Users\\alber\\OneDrive\\Escritorio\\Sales-2.0\\Sales-System 2.0\\Sales-System 2.0.Application\\Validations\\UsuarioValidation.cs",
-              "RelativeToolTip": "Sales-System 2.0.Application\\Validations\\UsuarioValidation.cs",
-              "ViewState": "AQIAAFMAAAAAAAAAAAAgwGkAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T02:21:39.746Z",
+              "WhenOpened": "2024-03-31T23:26:57.951Z",
               "EditorCaption": ""
             }
           ]
